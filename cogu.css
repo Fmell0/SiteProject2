@@ -7,3 +7,6 @@ body {
 .mt-6 {
   margin-top: 56px;
 }
+.card {
+  background-color: rgba(66, 54, 60, 0.5);
+}
