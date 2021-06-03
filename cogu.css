@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(0, 128, 0, 0.7);
+}
+.carousel-item img {
+  max-height: 500px;
+}
+.mt-6 {
+  margin-top: 56px;
+}
